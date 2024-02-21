@@ -1,6 +1,6 @@
 # Anomaly-Detection-Multivariate-Time-Series
 
-This paper explores anomaly detection in cardiovascular health data using Machine Learning methods, including
+This project explores anomaly detection in cardiovascular health data using Machine Learning methods, including
 k-means clustering, isolation forest, and fuzzy c-means clustering. Focused on the MIT-BIH Arrhythmia Database with 48 ECGs, our goal is early identification of potential cardiac irregularities. Our approach, incorporating majority voting of
 multiple ML models, considers both temporal and variable
 relationships to enhance precision. By unraveling intricacies in
